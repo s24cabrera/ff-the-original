@@ -1,1 +1,1 @@
-window.FFL_LEAGUES={"1952903": {"name": "The Original", "seasons": [2015, 2026], "v": "ac3f8b8527"}};
+window.FFL_LEAGUES={"1952903": {"name": "The Original", "seasons": [2015, 2026], "v": "a5c3ebe00e"}};
